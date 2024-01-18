@@ -6,7 +6,7 @@
 
 ## **I'm a Software Engineer, Technology Geek and an avid DDD Enthusiast.**
 
-- 🎯 **I’m currently working on**: Back-End systems development at <a href="https://www.wipro.com/pt-BR/" target="_blank">Wipro Brasil</a>.
+- 🎯 **I’m currently working on**: Back-End systems development at <a href="https://www.engesoftware.com/home/" target="_blank">Engesoftware</a>.
 - 💬 **Ask me about**: .NET, CQRS, RESTful APIs, SQL Databases, Software Architecture and Testing.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn or E-mail! 👆
 
